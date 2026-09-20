@@ -8,7 +8,14 @@
 
 
 ## Tabulation
+<img width="1152" height="864" alt="image" src="https://github.com/user-attachments/assets/da341b31-24be-4eaf-a86c-87d1a8f41d92" />
+
+<img width="864" height="1152" alt="image" src="https://github.com/user-attachments/assets/cf48beec-a230-4a44-bf03-20622711ca8d" />
+
+<img width="864" height="1152" alt="image" src="https://github.com/user-attachments/assets/5f123f35-5027-4e68-9715-d02f3e8563cb" />
 
 ## attach semilog graph
+<img width="1152" height="864" alt="image" src="https://github.com/user-attachments/assets/0f8db5f3-b402-41d3-8260-7f073b4f6dae" />
 
 ## result
+![Uploading image.png…]()
