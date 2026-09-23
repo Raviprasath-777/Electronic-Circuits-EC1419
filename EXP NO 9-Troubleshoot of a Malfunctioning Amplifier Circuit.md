@@ -18,4 +18,5 @@
 <img width="1152" height="864" alt="image" src="https://github.com/user-attachments/assets/0f8db5f3-b402-41d3-8260-7f073b4f6dae" />
 
 ## result
-![Uploading image.png…]()
+<img width="864" height="1152" alt="image" src="https://github.com/user-attachments/assets/69d88ac6-893f-41ba-9657-33514b906e07" />
+
